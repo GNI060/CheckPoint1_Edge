@@ -16,12 +16,13 @@ Hardware
 
 - Arduino 
 - 1 Placa de ensaio
-- 4 Resistores
+- 5 Resistores
 - 3 LEDs (Verde, Amarelo e Vermelho)
 - 1 Fotorresitor 
 - 1 Buzzer
-- 17 Cabos jumpers macho para macho
+- 21 Cabos jumpers macho para macho
 - 1 Cabo USB Tipo A para Tipo B
+- 1 Tela LCD 
 
 Software
 
@@ -33,8 +34,8 @@ Software
 ### Instalação
 
 1. Baixe e instale o [Arduino IDE](https://www.arduino.cc/en/software).
-2. Baixe o arquivo zip do projeto.
-3. Abra o arquivo na IDE do Arduino.
+2. Copie o código do projeto no [Tinkercard](https://www.tinkercad.com/things/34svMQR4K5T-checkpoint-edge-?sharecode=0xWWGmACIG5ZywkPIGMjdAKyNercjdW2pWyLtDT6DeE).
+3. Cole o código na IDE do Arduino.
 4. Verifique se as bibliotecas necessárias estão instaladas.
 5. Conecte seu Arduino ao computador.
 6. Selecione a placa correta em Ferramentas > Placa (por exemplo, Arduino Uno).
