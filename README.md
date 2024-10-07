@@ -50,8 +50,8 @@ Software
 2. Conecte o sistema ao fornecimento de energia via USB.
 3. A tela LCD se acenderá com a porcentagem de luminosidade.
 4. Se o ambiente está com a luminosidade **adequada**, o **LED Verde** acenderá.
-5. Se o ambiente está com a luminosidade **estável**, o **LED Amarelo** acenderá.
-6. Se o ambiente está com a luminosidade **inadequada**, o **LED Vermelho** acenderá junto ao **Buzzer** emitindo buzinas. 
+5. Se o ambiente está com a luminosidade **estável**, o **LED Amarelo** acenderá junto ao **Buzzer** emitindo buzinas contínuas.
+6. Se o ambiente está com a luminosidade **inadequada**, o **LED Vermelho** acenderá junto ao **Buzzer** emitindo buzinas com o volume mais elevado. 
 
 <hr>
 
